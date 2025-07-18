@@ -1,5 +1,5 @@
 # Capstone-Project
-Analisis Komprehensif Berita Ekonomi Global untuk Mendukung Keputusan Investasi Menggunakan Generative AI
+Analisis Berita Ekonomi Global Menggunakan Generative AI
 
 # Project overview
 Tujuan Proyek
